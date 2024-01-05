@@ -1,0 +1,43 @@
+https://www.labminutes.com/sec0205_ise_20_tacacs_device_admin_shell_profile_1
+
+
+https://www.labminutes.com/video/sec/ISE
+
+https://www.youtube.com/watch?v=DlzALGHZ0o4
+
+https://www.youtube.com/watch?v=hIOZB_VYNJs    Spine Leaf Center Architecture
+
+https://www.youtube.com/watch?v=mXB_zHeUaO8    spine leaf archit
+
+https://www.youtube.com/watch?v=UGxidMXwFro
+
+https://www.youtube.com/watch?v=QPqVtguOz4w&t=18s  vxlan....
+
+
+http://www.network-node.com/identity-services-engine
+
+https://www.labminutes.com/video/dc    ACI 
+
+BGP: iBGP and eBGP
+Static Route
+Default Route
+VLAN
+STP
+VLTi
+Port Channel
+BFD
+Leaf Spine Architecture
+Management OOB network route
+AAA
+
+
+How are you guys doing? I have been trying to send this since Monday.
+
+- Please focus on 802.1x authentication
+    - PEAP authentication for wired user.
+        -    User authentication for wired domain user
+        -    Machine authentication for domain user
+
+You will need to create the authc and authz rules in ISE. Switch configurations too. You will need to configure the supplicant(MS native supplicant or Cisco anyconnect NAM).
+
+Please let me know if this makes sense.
